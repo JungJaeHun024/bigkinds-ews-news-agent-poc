@@ -1,12 +1,12 @@
-\# Troubleshooting Notes
+# Troubleshooting Notes
 
 
 
-\## 1. LLM API Timeout
+## 1. LLM API Timeout
 
 
 
-\### Problem
+### Problem
 
 
 
@@ -14,7 +14,7 @@ NVIDIA LLM API 호출 시 후보 기사 수가 많거나 prompt가 길어지면 
 
 
 
-\### Cause
+### Cause
 
 
 
@@ -54,11 +54,11 @@ NVIDIA LLM API 호출 시 후보 기사 수가 많거나 prompt가 길어지면 
 
 
 
-\## 2. PF Keyword False Positive
+## 2. PF Keyword False Positive
 
 
 
-\### Problem
+### Problem
 
 
 
@@ -66,7 +66,7 @@ PF 검색 과정에서 SPF, KCP, CP 등 유사 토큰으로 인해 비관련 기
 
 
 
-\### Cause
+### Cause
 
 
 
@@ -74,7 +74,7 @@ PF 검색 과정에서 SPF, KCP, CP 등 유사 토큰으로 인해 비관련 기
 
 
 
-\### Solution
+### Solution
 
 
 
@@ -92,11 +92,11 @@ PF 검색 과정에서 SPF, KCP, CP 등 유사 토큰으로 인해 비관련 기
 
 
 
-\## 3. ChromaDB Readonly Error
+## 3. ChromaDB Readonly Error
 
 
 
-\### Problem
+### Problem
 
 
 
@@ -104,7 +104,7 @@ Colab 환경에서 ChromaDB를 반복 생성할 때 readonly database 오류가 
 
 
 
-\### Cause
+### Cause
 
 
 
@@ -112,7 +112,7 @@ Colab 환경에서 ChromaDB를 반복 생성할 때 readonly database 오류가 
 
 
 
-\### Solution
+### Solution
 
 
 
@@ -128,11 +128,11 @@ Colab 환경에서 ChromaDB를 반복 생성할 때 readonly database 오류가 
 
 
 
-\## 4. PoC Scope Control
+## 4. PoC Scope Control
 
 
 
-\### Problem
+### Problem
 
 
 
@@ -140,7 +140,7 @@ Vector Search 품질을 계속 고도화하려 하면 PoC 범위를 넘어 운�
 
 
 
-\### Decision
+### Decision
 
 
 
