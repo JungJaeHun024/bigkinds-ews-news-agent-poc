@@ -1,0 +1,8 @@
+pandas
+openpyxl
+tqdm
+requests
+langgraph
+chromadb
+sentence-transformers
+ipython
