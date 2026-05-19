@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment / Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Raw data
+data/raw/*
+!data/raw/.gitkeep
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB / Vector DB
+chroma/
+*_chroma/
+*_chroma_runtime_*/
+ews_bigkinds_chroma*/
+
+# Outputs with potentially copyrighted text
+outputs/*.xlsx
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
