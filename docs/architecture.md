@@ -1,8 +1,8 @@
-\# Architecture
+# Architecture
 
 
 
-\## 1. Overview
+## 1. Overview
 
 
 
@@ -14,7 +14,7 @@ Agent는 원천 기사 데이터를 직접 최종 판단하지 않고, Rule 기�
 
 
 
-\## 2. Agent Workflow
+## 2. Agent Workflow
 
 
 
@@ -44,7 +44,7 @@ Agent는 원천 기사 데이터를 직접 최종 판단하지 않고, Rule 기�
 
 
 
-\## 3. Table Design
+## 3. Table Design
 
 
 
@@ -70,7 +70,7 @@ Agent는 원천 기사 데이터를 직접 최종 판단하지 않고, Rule 기�
 
 
 
-\## 4. Design Principle
+## 4. Design Principle
 
 
 
@@ -98,7 +98,7 @@ Agent는 원천 기사 데이터를 직접 최종 판단하지 않고, Rule 기�
 
 
 
-\## 5. Scope
+## 5. Scope
 
 
 
