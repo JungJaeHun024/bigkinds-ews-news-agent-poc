@@ -1,8 +1,8 @@
-\# Data Dictionary
+# Data Dictionary
 
 
 
-\## 1. raw\_articles
+## 1. raw\_articles
 
 
 
@@ -38,7 +38,7 @@ BigKinds Excel에서 적재한 원천 기사 테이블입니다.
 
 
 
-\## 2. article\_domain\_tags
+## 2. article\_domain\_tags
 
 
 
@@ -62,7 +62,7 @@ BigKinds Excel에서 적재한 원천 기사 테이블입니다.
 
 
 
-\## 3. risk\_event\_candidates
+## 3. risk\_event\_candidates
 
 
 
