@@ -104,7 +104,7 @@ BigKinds Excel에서 적재한 원천 기사 테이블입니다.
 
 
 
-\## 4. event\_summary
+## 4. event\_summary
 
 
 
@@ -130,7 +130,7 @@ BigKinds Excel에서 적재한 원천 기사 테이블입니다.
 
 
 
-\## 5. rag\_documents
+## 5. rag\_documents
 
 
 
@@ -154,7 +154,7 @@ RAG 검색용 문서 테이블입니다.
 
 
 
-\## 6. llm\_final\_judgements
+## 6. llm\_final\_judgements
 
 
 
